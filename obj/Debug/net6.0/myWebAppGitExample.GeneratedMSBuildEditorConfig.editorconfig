@@ -8,37 +8,37 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = myWebAppGitExample
 build_property.RootNamespace = myWebAppGitExample
-build_property.ProjectDir = C:\Sakhile\practise_projects\myWebAppGitExample\
+build_property.ProjectDir = c:\Sakhile\practise_projects\myWebAppGitExample\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Sakhile\practise_projects\myWebAppGitExample
+build_property.MSBuildProjectDirectory = c:\Sakhile\practise_projects\myWebAppGitExample
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Sakhile/practise_projects/myWebAppGitExample/Views/Home/Index.cshtml]
+[c:/Sakhile/practise_projects/myWebAppGitExample/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Sakhile/practise_projects/myWebAppGitExample/Views/Home/Privacy.cshtml]
+[c:/Sakhile/practise_projects/myWebAppGitExample/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Sakhile/practise_projects/myWebAppGitExample/Views/Shared/Error.cshtml]
+[c:/Sakhile/practise_projects/myWebAppGitExample/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Sakhile/practise_projects/myWebAppGitExample/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Sakhile/practise_projects/myWebAppGitExample/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Sakhile/practise_projects/myWebAppGitExample/Views/_ViewImports.cshtml]
+[c:/Sakhile/practise_projects/myWebAppGitExample/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Sakhile/practise_projects/myWebAppGitExample/Views/_ViewStart.cshtml]
+[c:/Sakhile/practise_projects/myWebAppGitExample/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Sakhile/practise_projects/myWebAppGitExample/Views/Shared/_Layout.cshtml]
+[c:/Sakhile/practise_projects/myWebAppGitExample/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-vrlq92yuto
