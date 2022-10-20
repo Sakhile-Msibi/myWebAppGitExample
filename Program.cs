@@ -6,6 +6,8 @@ builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
 
+var password = 12345;
+
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
@@ -25,4 +27,4 @@ app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
-app.Run();
+app.Run(password.ToString());
